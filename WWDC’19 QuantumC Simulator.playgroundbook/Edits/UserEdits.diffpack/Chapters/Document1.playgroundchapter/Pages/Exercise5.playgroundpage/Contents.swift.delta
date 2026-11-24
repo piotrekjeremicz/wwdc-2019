@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>2</string>
+			<key>ModifiedRange</key>
+			<string>{957, 1}</string>
+			<key>OriginalContent</key>
+			<string>1</string>
+			<key>OriginalRange</key>
+			<string>{957, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>    .controlledX(),
+    .hadamard(n: 2),
+    .pauliX(),
+    .toffoli(),
+    .swap()
+</string>
+			<key>ModifiedRange</key>
+			<string>{1404, 84}</string>
+			<key>OriginalContent</key>
+			<string>    Gate.hadamard(n: 2),
+    Gate.deutschGate(fn: [1, 0]),
+    Gate.phaseShift(phi: 0.9),
+    Gate.pauliZ()
+</string>
+			<key>OriginalRange</key>
+			<string>{1404, 108}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Document1.playgroundchapter/Pages/Exercise5.playgroundpage/Contents.swift</string>
+</dict>
+</plist>
