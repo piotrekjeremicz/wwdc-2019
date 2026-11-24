@@ -10,6 +10,14 @@ The book walks from bits to qubits in five interactive pages:
 4. **Quantum Computer Model** — flip a coin with 4 qubits: put a qubit into superposition with a Hadamard gate, then collapse it.
 5. **Simulator** — a sandbox where you chain gates (Hadamard, Pauli X/Y/Z, phase shift, swap, √swap, CNOT, controlled-X/Y/Z, Toffoli, Deutsch) on a 4-qubit register and observe the resulting state.
 
+## Screenshots
+
+| | |
+| --- | --- |
+| <img src="screenshots/page-1.png" alt="Classical Computer"><br>**1 · Classical Computer** | <img src="screenshots/page-2.png" alt="Complex Number"><br>**2 · Complex Number** |
+| <img src="screenshots/page-3.png" alt="Quantum Bit"><br>**3 · Quantum Bit** | <img src="screenshots/page-4.png" alt="Quantum Computer Model"><br>**4 · Quantum Computer Model** |
+| <img src="screenshots/page-5.png" alt="Simulator"><br>**5 · Simulator** | |
+
 ## What's inside
 
 The simulation is written from scratch (no linear-algebra libraries):
