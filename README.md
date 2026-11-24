@@ -12,11 +12,24 @@ The book walks from bits to qubits in five interactive pages:
 
 ## Screenshots
 
-| | |
-| --- | --- |
-| <img src="screenshots/page-1.png" alt="Classical Computer"><br>**1 · Classical Computer** | <img src="screenshots/page-2.png" alt="Complex Number"><br>**2 · Complex Number** |
-| <img src="screenshots/page-3.png" alt="Quantum Bit"><br>**3 · Quantum Bit** | <img src="screenshots/page-4.png" alt="Quantum Computer Model"><br>**4 · Quantum Computer Model** |
-| <img src="screenshots/page-5.png" alt="Simulator"><br>**5 · Simulator** | |
+<table>
+  <tr>
+    <td><b>1 · Classical Computer</b><br>
+      <img src="screenshots/page-1.png" alt="Classical Computer"></td>
+    <td><b>2 · Complex Number</b><br>
+      <img src="screenshots/page-2.png" alt="Complex Number"></td>
+  </tr>
+  <tr>
+    <td><b>3 · Quantum Bit</b><br>
+      <img src="screenshots/page-3.png" alt="Quantum Bit"></td>
+    <td><b>4 · Quantum Computer Model</b><br>
+      <img src="screenshots/page-4.png" alt="Quantum Computer Model"></td>
+  </tr>
+  <tr>
+    <td><b>5 · Simulator</b><br>
+      <img src="screenshots/page-5.png" alt="Simulator"></td>
+  </tr>
+</table>
 
 ## What's inside
 
