@@ -10,6 +10,12 @@ The book walks from bits to qubits in five interactive pages:
 4. **Quantum Computer Model** — flip a coin with 4 qubits: put a qubit into superposition with a Hadamard gate, then collapse it.
 5. **Simulator** — a sandbox where you chain gates (Hadamard, Pauli X/Y/Z, phase shift, swap, √swap, CNOT, controlled-X/Y/Z, Toffoli, Deutsch) on a 4-qubit register and observe the resulting state.
 
+## Demo
+
+[![WWDC19 – QuantumC Simulator — demo on YouTube](https://img.youtube.com/vi/V48LRbOqf3k/hqdefault.jpg)](https://www.youtube.com/watch?v=V48LRbOqf3k)
+
+▶ [Watch the demo on YouTube](https://www.youtube.com/watch?v=V48LRbOqf3k)
+
 ## Screenshots
 
 <table>
